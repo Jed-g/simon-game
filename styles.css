@@ -1,0 +1,35 @@
+body {
+  background-color: darkblue;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+  margin-top: 10px;
+  font-size: 4rem;
+}
+
+.btn {
+  border-radius: 30%;
+  margin: 35px;
+  border-width: 10px;
+  border-color: black;
+  padding: 100px;
+  outline: none;
+}
+
+.red {
+background-color: red;
+}
+
+.blue {
+background-color: blue;
+}
+
+.yellow {
+background-color: yellow;
+}
+
+.green {
+background-color: green;
+}
