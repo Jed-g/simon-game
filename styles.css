@@ -33,3 +33,11 @@ background-color: yellow;
 .green {
 background-color: green;
 }
+
+.pressed {
+  opacity: 0.5;
+}
+
+.wrong {
+  border-color: red;
+}
