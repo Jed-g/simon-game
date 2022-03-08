@@ -1,9 +1,9 @@
-# Simon Game <img src="icon.png" alt="simon game icon" width="25"/>
+# Overview
+### Simon Game <img src="icon.png" alt="simon game icon" width="25"/>
 
-A simple game for training short-term memory and cognitive sharpness.
+A simple game for Desktops with the aim of training short-term memory and cognitive sharpness. Created with JavaScript and jQuery.
 
-## How to download
+# Live Demo
+Live demo is available [here](https://jed-g.github.io/simon-game).
 
-Download the project **.zip** or **git clone** and enjoy the game by opening **index.html** in a browser. Layout currently optimized for desktop only.
-
-#### **Good Luck!**
+**Good Luck!**
